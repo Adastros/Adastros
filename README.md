@@ -14,8 +14,6 @@ I currently work as a process engineer at Applied Medical and am studying to be 
 
  <img src="https://skillicons.dev/icons?i=react,bootstrap,webpack,git,linux" />
 
-<br />
-
 ## Interests
 
 - Coding!
