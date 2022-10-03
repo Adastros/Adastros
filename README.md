@@ -2,7 +2,7 @@
 
 ## About
 
-I currently work as a process engineer at Applied Medical and am studying to be a web developer. My passion for web development began when I discovered FreeCodeCamp and started working through the curriculum on my free time. As I worked through the curriculum I knew I wanted to become a web developer. I was drawn in by the process of bringing a website or application from concept to reality.
+I am a self-taught web developer that currently works as a process engineer at Applied Medical. I am looking to transition into the web development field. My passion for web development began when I discovered freeCodeCamp and started working through the curriculum on my free time. As I worked through the curriculum I knew I wanted to become a web developer. I was drawn in by the process of bringing a website or application from concept to reality.
 
 ## Skills
 
