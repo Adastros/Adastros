@@ -12,7 +12,7 @@ I am a self-taught web developer that currently works as a process engineer at A
 
 ### Frameworks and Technologies
 
- <img src="https://skillicons.dev/icons?i=react,bootstrap,webpack,git,linux" />
+ <img src="https://skillicons.dev/icons?i=webpack,git,linux" />
 
 ## Interests
 
