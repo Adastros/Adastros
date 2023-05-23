@@ -10,7 +10,7 @@ I am a process development engineer transistioning into the web development fiel
 
 ### Frameworks and Technologies
 
- <img src="https://skillicons.dev/icons?i=react,webpack,git,linux" />
+ <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,webpack,git,linux" />
 
 ## Interests
 
