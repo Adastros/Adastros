@@ -1,6 +1,6 @@
 ## About
 
-I am a process development engineer pivoting into the web development. My passion for web development began when I discovered freeCodeCamp and started working through the curriculum in my free time. As I worked through the curriculum I knew I wanted to become a web developer. I was drawn in by the process of bringing a website or application from concept to reality.
+I am a process development engineer pivoting into web development. My passion for web development began when I discovered freeCodeCamp and started working through the curriculum in my free time. As I worked through the curriculum I knew I wanted to become a web developer. I was drawn in by the process of bringing a website or application from concept to reality.
 
 ## Skills
 
