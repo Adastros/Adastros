@@ -10,7 +10,7 @@ I am a process development engineer pivoting into web development. My passion fo
 
 ### Frameworks and Technologies
 
- <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,webpack,github,git,linux,postman" />
+ <img src="https://skillicons.dev/icons?i=mongodb,express,react,redux,nodejs,webpack,github,git,linux,postman,jest" />
 
 ## Interests
 
