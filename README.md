@@ -53,7 +53,7 @@ I am a process development engineer pivoting into web development. My passion fo
 [HTML]: https://img.shields.io/badge/html-%23E34F26?style=for-the-badge&logo=html5&logoColor=white
 [HTML-URL]: https://html.spec.whatwg.org/
 [CSS]: https://img.shields.io/badge/css-%231572B6?style=for-the-badge&logo=css3&logoColor=white
-[CSS-URL]: [https://html.spec.whatwg.org/](https://www.w3.org/Style/CSS/Overview.en.html)
+[CSS-URL]: https://www.w3.org/Style/CSS/Overview.en.html
 
 <!-- Frameworks and Libraries -->
 
